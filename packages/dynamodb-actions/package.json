@@ -4,7 +4,7 @@
   "private": true,
   "main": "src/index.ts",
   "dependencies": {
-    "aws-sdk": "*"
+    "aws-sdk": "2.1354.0"
   },
   "devDependencies": {
     "jest": "*",
