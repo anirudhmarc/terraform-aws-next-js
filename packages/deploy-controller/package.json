@@ -17,12 +17,12 @@
   },
   "dependencies": {
     "@millihq/tfn-dynamodb-actions": "1.0.0-canary.5",
-    "aws-sdk": "*"
+    "aws-sdk": "2.1354.0"
   },
   "devDependencies": {
     "@types/aws-lambda": "*",
     "@vercel/ncc": "*",
-    "aws-sdk": "*",
+    "aws-sdk": "2.1354.0",
     "jest": "*",
     "ncc-zip": "^2.1.0",
     "ts-jest": "*",
